@@ -4,6 +4,6 @@ title: floatey
 
 # floatey
 
-A keyboard for the iPhone Duo, with swipe typing, emoji, and one-handed and split layouts.
+A keyboard for iPhone, built for the iPhone Duo, with autocorrect, swipe typing, emoji, one-handed typing on every iPhone, and the Duo's split layout.
 
 - [Privacy policy](privacy/)
