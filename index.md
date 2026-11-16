@@ -11,4 +11,5 @@ A keyboard made especially for the iPhone Duo that looks and feels like the stan
 - One-handed typing on every iPhone, and the Duo's split layout on its inner display.
 - Nothing you type leaves your iPhone.
 
+- [Support](support/)
 - [Privacy policy](privacy/)
